@@ -1,4 +1,8 @@
-Hi
+Read me.
+I am confident in your project. you 'll get woderful results from me :)
+how about chatting with $kypid:live:newhopestar1002
+please contact me here
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
