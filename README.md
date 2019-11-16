@@ -1,7 +1,8 @@
 ## Read me
 
 I am confident in your project. you 'll get woderful results from me :)
-how about chatting with $kypid:live:newhopestar1002
+how about chatting with $kyp for convenient conversation for me>>>
+live:newhopestar1002
 please contact me here
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
