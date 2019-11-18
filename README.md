@@ -1,6 +1,6 @@
 ## Read me
 
-I am confident in your project. you 'll get woderful results from me :)
+I am confident in your project. you 'll get wonderful results from me :::)
 >>>
 live:newhopestar1002
 please contact me here
